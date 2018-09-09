@@ -8,9 +8,9 @@ circumstance, open source has always been a welcoming environment to learn
 and an empowering thing to turn to, as it has always served for a means to
 prove the viability of ideas and validate thing that otherwise would have been impossible.
 
-# Courses and Certificates:
+# Courses, Degrees and Certificates:
 
-## [OSSU Open Source Society University](https://github.com/dasmedium/computer-science)
+## [OSSU Open Source Society University B.S. Computer Science](https://github.com/dasmedium/computer-science)
 
 The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 
@@ -45,3 +45,16 @@ Creating many container components that integrate with Redux
 Testing with the Redux Chrome extension
 
 ### [Certificate](http://bit.ly/merncert)
+
+## [University of Puerto Rico - Rio Piedras Campus B.A.]
+
+Bachelor of Arts at Humanities Faculty with double major in Music and Foreign Languages.
+
+- Music Major:
+  - Guitar
+  - Advanced Solfage and Theory
+- Languages Major
+  - Advanced French
+  - Intermediate German
+
+Graduated Magnacumlaude.
