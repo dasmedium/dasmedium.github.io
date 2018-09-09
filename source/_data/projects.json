@@ -1,12 +1,17 @@
 [
   {
     "name": "Tetoka V1 Bootstrap",
-    "url": "https://hexo.io/",
+    "url": "http://bit.ly/2Cyjokj ",
     "desc": "Tetoka MERN stack app Bootstrap front-end"
   },
   {
     "name": "Tetoka V2 Material-UI",
-    "url": "http://fontawesome.io/",
+    "url": "http://bit.ly/tetokaMUI",
     "desc": "Social network on MERN stack for Das Medium"
+  },
+  {
+    "name": "Tetoka API",
+    "url": "http://bit.ly/tetokaAPI ",
+    "desc": "Tetoka GraphQL API"
   }
 ]

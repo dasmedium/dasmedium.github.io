@@ -14,10 +14,11 @@ direction: ltr
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
 nav:
-  home: /
-  about: /about/
-  articles: /archives/
-  projects: https://github.com/dasmedium
+  Home: /
+  About: /about/
+  Education: /education/
+  Articles: /archives/
+  Projects: https://github.com/dasmedium
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
