@@ -27,7 +27,7 @@ nav:
 social_links:
   github: https://github.com/dasmedium
   linkedin: https://www.linkedin.com/in/angel-rodriguez-torres/
-  mail: admin@dasmedium.co
+  mail: mailto:admin@dasmedium.co
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
