@@ -16,4 +16,4 @@ Tetoka app will have its backend re-written and hosted as a microservice. The ro
 8. Rewrite some database services for Passport and GraphQL integration.
 
 This will set the base functionality of a social network application. A very tiny and very simple version of facebook.
-Some custome queries and mutation related to transaction activity will need to be written into this api, although the payment network service will be written and hosted on the blockchain.
+Some custom queries and mutation related to transaction activity will need to be written into this api, although the payment network service will be written and hosted on the blockchain.
