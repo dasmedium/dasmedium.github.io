@@ -13,7 +13,7 @@ author: John Doe
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://dasmedium.github.io
 root: /
 permalink: :year/:month/:day/:title/
 ? permalink_defaults
@@ -81,5 +81,4 @@ deploy:
   type: git
   repo: https://github.com/dasmedium/dasmedium.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: [master] #published
-  message: [message] #leave this blank
 
