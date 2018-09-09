@@ -3,11 +3,6 @@ title: education
 date: 2018-09-09 05:54:42
 ---
 
-I've always believed that learning should not be limited by financial
-circumstance, open source has always been a welcoming environment to learn
-and an empowering thing to turn to, as it has always served for a means to
-prove the viability of ideas and validate thing that otherwise would have been impossible.
-
 # Courses, Degrees and Certificates:
 
 ## [OSSU Open Source Society University B.S. Computer Science](https://github.com/dasmedium/computer-science)
