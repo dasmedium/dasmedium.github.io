@@ -81,4 +81,3 @@ deploy:
   type: git
   repo: https://github.com/dasmedium/dasmedium.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: [master] #published
-
