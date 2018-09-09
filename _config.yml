@@ -74,11 +74,17 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: cactus
+theme_config:
+  colorscheme: dark
+
+social_links:
+  github: https://github.com/dasmedium
+  linkedin: https://www.linkedin.com/in/angel-rodriguez-torres/
+  #name of fontawesome icon
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/dasmedium/dasmedium.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: [master] #published
-
+  branch: [master] #published etc.
