@@ -15,6 +15,11 @@
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.3.1"
+    "hexo-server": "^0.3.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "marked": "^0.5.0"
   }
 }

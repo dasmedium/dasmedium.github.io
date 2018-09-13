@@ -41,7 +41,7 @@ Testing with the Redux Chrome extension
 
 ### [Certificate](http://bit.ly/merncert)
 
-## [University of Puerto Rico - Rio Piedras Campus B.A.]
+## University of Puerto Rico - Rio Piedras Campus B.A.
 
 Bachelor of Arts at Humanities Faculty with double major in Music and Foreign Languages.
 
