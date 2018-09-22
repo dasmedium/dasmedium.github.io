@@ -52,4 +52,4 @@ Bachelor of Arts at Humanities Faculty with double major in Music and Foreign La
   - Advanced French
   - Intermediate German
 
-Graduated Magnacumlaude.
+Graduated Magna Cum Laude.
