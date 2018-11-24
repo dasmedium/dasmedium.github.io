@@ -1,9 +1,10 @@
+<!-- prettier-ignore -->
 ---
 title: projects
 date: 2018-11-24 02:01:51
 ---
 
-![alt text](<https://github.com/dasmedium/dasmediumReactWebsite/blob/master/src/img/DM-Full-(mad).png> "Das Medium")
+![Das Medium Logo](https://github.com/dasmedium/dasmediumReactWebsite/blob/master/src/img/DM-Full-(mad).png)
 
 # Das Medium core website
 
@@ -29,7 +30,7 @@ Feel free to check it out on [here](https://dasmedium.co)
 
 # Tetoka Education Social Network Version 1
 
-<img src="https://github.com/dasmedium/dmsocial/blob/master/client/public/Tetoka-blk.png" alt="Tetoka Logo" width="200"/>
+![Tetoka Logo](https://github.com/dasmedium/dmsocial/blob/master/client/public/Tetoka-blk.png)
 
 This project is the first version of the Tetoka Social Network client application.
 A demo of this app can be found [here](https://bstrapp.tetoka.co/).
@@ -83,4 +84,4 @@ A running example can be found [here](https://tasklist.dasmedium.co)
 - Mongojs
 - Nodemon
 
-**[Repository]**(https://github.com/dasmedium/nodeapp)
+[Repository](https://github.com/dasmedium/nodeapp)
