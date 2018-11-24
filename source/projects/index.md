@@ -1,4 +1,3 @@
-<!-- prettier-ignore -->
 ---
 title: projects
 date: 2018-11-24 02:01:51
