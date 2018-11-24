@@ -1,17 +1,27 @@
 [
   {
     "name": "Tetoka V1 Bootstrap",
-    "url": "http://bit.ly/2Cyjokj ",
-    "desc": "Tetoka MERN stack app Bootstrap front-end"
+    "url": "https://bstrapp.tetoka.co ",
+    "desc": "Tetoka MERN stack app Bootstrap front-end, feel free to create an account and leave comments or posts as you wish. Your feedback and participation is appreciated."
   },
   {
     "name": "Tetoka V2 Material-UI",
-    "url": "http://bit.ly/tetokaMUI",
-    "desc": "Social network on MERN stack for Das Medium"
+    "url": "https://app.tetoka.co",
+    "desc": "Social network on MERN stack for Das Medium. This is version 2 with Material UI styling. Both version 1 and 2 talk to the same backend, you can use the same login credentials to try both of them out."
   },
   {
-    "name": "Tetoka API",
+    "name": "Tetoka GraphQL API",
     "url": "http://bit.ly/tetokaAPI ",
-    "desc": "Tetoka GraphQL API"
+    "desc": "Tetoka GraphQL API. A work in progress and is intended to replace the currently live Beta-Api. This application will allow for more intricate relationships and interactions between users."
+  },
+  {
+    "name": "Tetoka Express Mongo Beta-API",
+    "url": "https://apibeta.tetoka.co ",
+    "desc": "This is the actual JSON endpoint, this api will be replaced in favor of newer GraphQL project."
+  },
+  {
+    "name": "Das Medium Home Website",
+    "url": "https://dasmedium.co ",
+    "desc": "Das Medium's home website has been completely redone in ReactJS. It's currently written in Typescript, leverages Redux state management capabilities to consume all of it's data from the Wordpress Rest Api of our legacy home website."
   }
 ]
