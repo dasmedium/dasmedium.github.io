@@ -3,7 +3,7 @@ title: projects
 date: 2018-11-24 02:01:51
 ---
 
-![Das Medium Logo](https://github.com/dasmedium/dasmediumReactWebsite/blob/master/src/img/DM-Full-(mad).png)
+![parens](https://github.com/dasmedium/dasmediumReactWebsite/blob/master/src/img/DM-Full-%28mad%29.png)
 
 # Das Medium core website
 
