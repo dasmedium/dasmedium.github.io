@@ -6,7 +6,7 @@ tags:
 
 Tetoka app will have its backend re-written and hosted as a microservice. The roadmap for the development of this app poses a few challenges.
 
-1. Decoupling the original backend
+1. Decoupling the original backend - #DONE
 2. Rethinking Async process within the graphQL scope
 3. Making the graphQL endpoint our Network Interface on the frontend app.
 4. Wrapping the appollo provider around a Redux provider to be able to use both state from Apollo and from our defined store. This will help in implementing Finite State Automata on our UI.
