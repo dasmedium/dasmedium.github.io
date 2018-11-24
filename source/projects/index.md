@@ -3,6 +3,8 @@ title: projects
 date: 2018-11-24 02:01:51
 ---
 
+![alt text](<https://github.com/dasmedium/dasmediumReactWebsite/blob/master/src/img/DM-Full-(mad).png> "Das Medium")
+
 # Das Medium core website
 
 This is Das Medium's core website. Currently it feeds content from our legacy Wordpress site.
@@ -56,8 +58,6 @@ This is a nodejs application consuming an Express api. MongoDB for storage and R
 - Solidity Smart Contracts
 
 Tetoka aims to bridge the gap between cryptographic payment networks and incentivised learning. This application is not yet a payment network or crypto investment platform.
-
-<img src="https://github.com/dasmedium/dasmediumReactWebsite/blob/master/src/img/DM-Full-(mad).png" />
 
 # Simple NodeJs Task List Application
 
