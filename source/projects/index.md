@@ -27,7 +27,6 @@ Feel free to check it out on [here](https://dasmedium.co)
 
 # Tetoka Education Social Network Version 1
 
-![Tetoka Logo](https://github.com/dasmedium/dmsocial/blob/master/client/public/Tetoka-blk.png)
 
 This project is the first version of the Tetoka Social Network client application.
 A demo of this app can be found [here](https://bstrapp.tetoka.co/).
