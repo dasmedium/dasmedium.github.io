@@ -15,11 +15,11 @@ It features type-safe actions for proper Redux implementation with Typescript. I
 
 ## Libraries
 
-- **[Redux-Observable]**(https://redux-obserable.js.org)
-- **[RxJS]**(https://rxjs-dev.firebaseapp.com)
-- **[Wordpress Rest Api]**(https://wp.dasmedium.co/wp-json/wp/v2/posts/)
-- **[Bootstrap]**(https://getbootstrap.com)
-- **[Type-safe Actions]**(https://github.com/piotrwitek/typesafe-actions)
+- [Redux-Observable](https://redux-obserable.js.org)
+- [RxJS](https://rxjs-dev.firebaseapp.com)
+- [Wordpress Rest Api](https://wp.dasmedium.co/wp-json/wp/v2/posts/)
+- [Bootstrap](https://getbootstrap.com)
+- [Type-safe Actions](https://github.com/piotrwitek/typesafe-actions)
 - And more...
 
 There are few typings that still need to be worked out, (ie. Epics, RootActions, RootState as arguments).
