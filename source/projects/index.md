@@ -24,6 +24,7 @@ There are few typings that still need to be worked out, (ie. Epics, RootActions,
 This website will always be a work in progress and will always feed its main content from Wordpress, because we stay true to the roots.
 
 Feel free to check it out on [here](https://dasmedium.co)
+Repository [here](https://github.com/dasmedium/dasmediumReactWebsite)
 
 # Tetoka Education Social Network Version 1
 
@@ -39,6 +40,8 @@ Redux handles application state on the front-end.
 
 Tetoka aims to bridge the gap between cryptographic payment networks and incentivised learning. This application is not yet a payment network or crypto investment platform.
 
+Repository [here](https://github.com/dasmedium/tetokabootstrapapp)
+
 # Tetoka Education Social Network Version 2
 
 This project is the front-end Tetoka Social Network client application.
@@ -48,6 +51,8 @@ The focus of this repo is to develop a new user interface based on [Material-UI]
 
 This is a nodejs application consuming an Express api. MongoDB for storage and Redux handles application state.
 
+Repository [here](https://github.com/dasmedium/dmsocial)
+
 ## Planned features:
 
 - Material UI styling _in-progress_
@@ -55,6 +60,10 @@ This is a nodejs application consuming an Express api. MongoDB for storage and R
 - Solidity Smart Contracts
 
 Tetoka aims to bridge the gap between cryptographic payment networks and incentivised learning. This application is not yet a payment network or crypto investment platform.
+
+***
+# Demos and Coding Challenge POC's
+The following are repositories of demos from coding challenges or courses either for proof of concept implementation or to test the implementation of a given library or tech stack.
 
 # Simple NodeJs Task List Application
 
