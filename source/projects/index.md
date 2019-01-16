@@ -90,3 +90,22 @@ A running example can be found [here](https://tasklist.dasmedium.co)
 - Nodemon
 
 ### [Repository](https://github.com/dasmedium/nodeapp)
+
+# Pentius Proof Of Concept
+Angular fullstack application. Implements Api endpoint for registering customers onto MSSQL Database, 
+frontend app handles form submission reactively and implements NGRX state management for all possible actions.
+All app components Dockerized.
+
+## Relevant Libraries
+### Api
+- Express
+- mssql
+- validator
+- cookie-parser
+### FrontEnd
+- Angular 6.0.3
+- ngrx/core
+- ngrx/effects
+- ngrx/store
+
+### [Repository](https://github.com/dasmedium/PentiusPOC)
