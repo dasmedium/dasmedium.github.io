@@ -5,7 +5,13 @@ date: 2018-09-09 05:54:42
 
 # Courses, Degrees and Certificates:
 
-## [OSSU Open Source Society University B.S. Computer Science](https://github.com/dasmedium/computer-science)
+## [Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-05-30&ci=AWS00533727)
+
+The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform.
+
+### [Certificate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-05-30&ci=AWS00533727)
+
+## [OSSU Open Source Society University Computer Science](https://github.com/dasmedium/computer-science)
 
 The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 
